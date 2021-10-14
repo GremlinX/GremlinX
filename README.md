@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @GremlinX
-- 👀 I’m interested in computer science and increase my programming skills
-- 🌱 I’m currently learning O.O.P. using C++, JavaScript 
-- 💞️ All of my projects are set as private
+- 👀 I’m a computer science student and newbie at programming;
+- 🌱 I’m currently learning O.O.P. using C++;
 - 📫 How to reach me: marcelo-ito@hotmail.com
 
 <!---
