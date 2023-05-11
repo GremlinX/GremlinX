@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GremlinX
-- 👀 I’m a computer science student and newbie at programming;
-- 🌱 I’m currently learning O.O.P. using C++;
+- 👀 I’m a computer science student and fullstack developer;
+- 🌱 I’m currently learning O.O.P. using Java;
 - 📫 How to reach me: marcelo-ito@hotmail.com
 
 <!---
