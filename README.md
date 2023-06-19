@@ -2,6 +2,7 @@
 - 👀 I’m a computer science student and fullstack developer;
 - 🌱 I’m currently learning O.O.P. using Java;
 - 📫 How to reach me: marcelo-ito@hotmail.com
+- 📃 Take a look at my portfolio: https://gremlinx.github.io
 
 <!---
 GremlinX/GremlinX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
