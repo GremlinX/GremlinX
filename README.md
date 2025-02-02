@@ -1,11 +1,52 @@
-- 👋 Hi, I’m @GremlinX
-- 👀 I’m a computer science student, QA professional at <a href="https://skychart.com.br/pt_br/">Skychart Web Softwares<a/> and fullstack developer in my free times;
-- 🌱 I’m currently learning O.O.P. using Java;
-- 📫 How to reach me: marcelo-ito@hotmail.com
-- 📃 Take a look at my portfolio: https://gremlinx.github.io
-- 🧑‍💻 Technologies I know:
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,jquery,react,bootstrap,express,nodejs,java,spring,mongodb,mysql,postman,jenkins,vscode,eclipse,heroku,git" />
+<h1 align="center">👋 Olá, eu sou o GremlinX!</h1>
+
+<p align="center">
+  🚀 QA Professional | 💻 Fullstack Developer
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GremlinX&layout=compact)
+---
+
+## 🧑‍💻 Sobre mim
+
+- 🔍 Apaixonado por tecnologia e qualidade de software.
+- 🏗️ Atualmente desenvolvendo projetos com **React, Spring Boot e SQL**.
+- 🛠️ Explorando testes automatizados com **Cypress**.
+- 📚 Estudando **Python (com foco em análise de dados)** e aprofundando meus conhecimentos em arquitetura de software.
+- 🎯 Buscando oportunidades para crescer na área de desenvolvimento e engenharia de software.
+
+---
+
+## 🚀 Tecnologias & Ferramentas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,jquery,react,bootstrap,express,nodejs,java,spring,mongodb,mysql,postman,jenkins,vscode,eclipse,heroku,git,python" />
+</p>
+
+---
+
+## 📂 Projetos em destaque
+
+Em breve!
+
+⚡ *Mais projetos disponíveis nos repositórios!*
+
+---
+
+## 📊 Estatísticas do GitHub  
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GremlinX&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GremlinX&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 📬 Como me encontrar?
+
+📧 Email: [marcelo-ito@hotmail.com](mailto:marcelo-ito@hotmail.com)  
+🌐 Portfólio: Em breve
+💼 LinkedIn: [linkedin.com/in/seu-perfil](https://www.linkedin.com/in/marcelo-ito-096460144/)
+
+---
+
+*"Desistir é uma solução permanente para um problema temporário"* 💡🙂‍↕️  
