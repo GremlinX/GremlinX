@@ -10,8 +10,8 @@
 
 - 🔍 Apaixonado por tecnologia e qualidade de software.
 - 🏗️ Atualmente desenvolvendo projetos com **React, Spring Boot e SQL**.
-- 🛠️ Explorando testes automatizados com **Cypress**.
-- 📚 Estudando **Python (com foco em análise de dados)** e aprofundando meus conhecimentos em arquitetura de software.
+- 🛠️ Aprimorando testes automatizados com **Cypress**.
+- 📚 Estudando **Python (com foco em análise de dados e automação)** e aprofundando meus conhecimentos em arquitetura de software e DevOps.
 - 🎯 Buscando oportunidades para crescer na área de desenvolvimento e engenharia de software.
 
 ---
@@ -43,10 +43,10 @@ Em breve!
 
 ## 📬 Como me encontrar?
 
-📧 Email: [marcelo-ito@hotmail.com](mailto:marcelo-ito@hotmail.com)  
+📧 Email: [marcelo-ito@hotmail.com](mailto:marcelo-ito@hotmail.com)
+💼 LinkedIn: [Marcelo Ito](https://www.linkedin.com/in/marcelo-ito-096460144/)
 🌐 Portfólio: Em breve
-💼 LinkedIn: [linkedin.com/in/seu-perfil](https://www.linkedin.com/in/marcelo-ito-096460144/)
 
 ---
 
-*"Desistir é uma solução permanente para um problema temporário"* 💡🙂‍↕️  
+*"Desistir é uma solução permanente para um problema temporário"* 💡🔥  
