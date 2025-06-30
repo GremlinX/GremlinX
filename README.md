@@ -44,8 +44,10 @@ Em breve!
 ## 📬 Como me encontrar?
 
 📧 Email: [marcelo-ito@hotmail.com](mailto:marcelo-ito@hotmail.com)
+
 💼 LinkedIn: [Marcelo Ito](https://www.linkedin.com/in/marcelo-ito-096460144/)
-🌐 Portfólio: Em breve
+
+🌐 Portfólio: [Marcelo Ito](https://gremlinx.github.io)
 
 ---
 
