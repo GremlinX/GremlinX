@@ -8,8 +8,8 @@
 
 ## 🧑‍💻 Sobre mim
 
-- 🔍 Apaixonado por tecnologia e qualidade de software.
-- 🏗️ Atualmente desenvolvendo projetos com **React, Spring Boot e SQL**.
+- 🔍 Apaixonado por tecnologia, desenvolvimento e qualidade de software.
+- 🏗️ Atualmente desenvolvendo projetos web com diversas teconologias diferentes.
 - 🛠️ Aprimorando testes automatizados com **Cypress**.
 - 📚 Estudando **Python (com foco em análise de dados e automação)** e aprofundando meus conhecimentos em arquitetura de software e DevOps.
 - 🎯 Buscando oportunidades para crescer na área de desenvolvimento e engenharia de software.
@@ -19,16 +19,8 @@
 ## 🚀 Tecnologias & Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,jquery,react,bootstrap,express,nodejs,java,spring,mongodb,mysql,postman,jenkins,vscode,eclipse,heroku,git,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,jquery,react,bootstrap,express,nodejs,java,spring,dotnet,mongodb,mysql,postman,jenkins,cypress,docker,git,python" />
 </p>
-
----
-
-## 📂 Projetos em destaque
-
-Em breve!
-
-⚡ *Mais projetos disponíveis nos repositórios!*
 
 ---
 
@@ -51,4 +43,6 @@ Em breve!
 
 ---
 
-*"Desistir é uma solução permanente para um problema temporário"* 💡🔥  
+*"Aquele que tem um porquê para viver pode suportar quase qualquer como"*
+
+*"Desistir é uma solução permanente para um problema temporário"*  
